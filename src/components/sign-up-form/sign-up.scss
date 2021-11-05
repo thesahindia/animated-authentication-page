@@ -1,0 +1,32 @@
+.signUp {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px 35px;
+
+  h1 {
+    align-self: flex-start;
+    padding-left: 8px;
+  }
+
+  .btn-container {
+    padding-top: 7px;
+    .btn {
+      width: 100%;
+      color: white;
+      font-size: medium;
+      border-radius: 6px;
+      border-style: none;
+      height: 42px;
+      box-shadow: 0 6px 11px #8080804a;
+      height: 49px;
+      background-color: #ffba35;
+
+
+      &:hover {
+        cursor: pointer;
+        background-color: #ffb319;
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+.fieldContainer {
+  position: relative;
+  margin: 30px 0;
+
+  .label {
+    font-size: 14px;
+    font-weight: 600;
+  }
+
+  .input {
+    width: 350px;
+    display: block;
+    padding: 16px 20px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 15px;
+    margin-top: 5px;
+    background-color: transparent;
+
+    &:focus {
+      outline-color: #ffbf59;
+    }
+  }
+}
+
+
