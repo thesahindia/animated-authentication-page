@@ -46,7 +46,7 @@ npm start
 
 ### Authors
 
-- **[Sahil Khan](https://github.com/thesahindia)**
+- **[Sahil](https://github.com/thesahindia)**
 
 ### License
 
